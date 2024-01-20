@@ -12,6 +12,9 @@ def multiply_and_sum_of_two_numbers (first_number,second_number):
     #if greater than 1000
     else:
         return sum
-        
 
+answer = multiply_and_sum_of_two_numbers (20,30)
+print('The answer is: ', answer)
 
+answer = multiply_and_sum_of_two_numbers ( 30,40)
+print('The answer is: ', answer)
